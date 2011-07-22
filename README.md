@@ -21,7 +21,7 @@ In order of being installed:
   * imagemagick
   * git-core
   * RVM
-  * Ruby 1.9.2-p180 on RVM with fast load patch
+  * Ruby 1.9.2-p290 on RVM with fast load patch
   * Configure Ruby for Debian
   * Bundler, Passenger, and Rails gems
   * Apache + Phusion Passenger slightly configured

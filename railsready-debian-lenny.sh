@@ -14,8 +14,8 @@
 system_version="Debian Lenny 5.0x"
 
 ruby_version="1.9.2"
-ruby_version_string="1.9.2-p180"
-ruby_source_dir_name="ruby-1.9.2-p180"
+ruby_version_string="1.9.2-p290"
+ruby_source_dir_name="ruby-1.9.2-p290"
 
 passenger_version="3.0.7"
 
