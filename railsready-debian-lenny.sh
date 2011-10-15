@@ -17,7 +17,7 @@ ruby_version="1.9.2"
 ruby_version_string="1.9.2-p290"
 ruby_source_dir_name="ruby-1.9.2-p290"
 
-passenger_version="3.0.7"
+passenger_version="3.0.9"
 
 script_runner=$(whoami)
 log_file=$(cd && pwd)/rails_install.log
@@ -188,4 +188,4 @@ echo -e "#################################"
 echo -e "Please logout/login to access run rails"
 echo -e "\n"
 
-echo -e "\n Thanks!\ni-Jakub"
+echo -e "\n Thanks!\nbabinho"
