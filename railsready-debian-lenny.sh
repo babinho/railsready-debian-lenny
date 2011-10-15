@@ -101,7 +101,7 @@ echo "==> done..."
 
 # Install imagemagick
 echo -e "\n=> Installing imagemagick (this may take awhile)..."
-sudo apt-get -y install imagemagick libmagick9-dev >> $log_file 2>&1
+sudo apt-get -y install imagemagick graphicsmagick-libmagick-dev-compat >> $log_file 2>&1
 echo "==> done..."
 
 # Install git-core
